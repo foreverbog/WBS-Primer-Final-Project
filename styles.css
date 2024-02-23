@@ -115,7 +115,18 @@ main .main-wrapper .aside-wrapper{
 }
 
 main .main-wrapper .aside-wrapper .aside-list{
+    
     position: fixed;
+    border: 1px solid black;
+    padding: 10px;
+    border-radius: 20px;
+    background: #5F9EA0;
+    opacity: 0.7;
+    transition: all 0.6s;
+}
+main .main-wrapper .aside-wrapper .aside-list:hover{
+    opacity: 1;
+    transition: all 0.6s;
 }
 main .main-wrapper .aside-wrapper .aside-list h3{
     
