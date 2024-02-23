@@ -115,10 +115,7 @@ main .main-wrapper .aside-wrapper{
 }
 
 main .main-wrapper .aside-wrapper .aside-list{
-    
     position: fixed;
-    padding: 10px;
-    border-radius: 20px;  
     transition: all 0.6s;
 }
 
